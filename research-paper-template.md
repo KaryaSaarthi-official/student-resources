@@ -31,7 +31,4 @@ Use this standard format for structuring academic research papers.
 
 ---
 Need professional formatting or review?
-Contact: support@karyasaarthi.com  |  www.karyasaarthi.com
----
-Need professional formatting or review?
 Contact: support@karyasaarthi.com | www.karyasaarthi.com
